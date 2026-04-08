@@ -697,7 +697,5 @@ Contributions make the open source community amazing! Any contributions you make
 </br>
 
 <div align="center">
-  
-Velocia - Where every journey is just a ride away.
-
+  <p><b>Velocia</b> - <i>A enterprise-grade ride-sharing platform where every journey is just a ride away. </i></p>
 </div>
