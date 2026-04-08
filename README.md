@@ -553,14 +553,9 @@ Unauthorized access attempts redirect to appropriate pages.
 
 ```css
 /* Light Mode */
---primary: 222.2 47.4% 11.2%
---secondary: 210 40% 96.1%
---accent: 210 40% 96.1%
-
-/* Dark Mode */
---primary: 210 40% 98%
---secondary: 217.2 32.6% 17.5%
---accent: 217.2 32.6% 17.5%
+--primary: 222.2 47.4% 11.2% --secondary: 210 40% 96.1% --accent: 210 40% 96.1%
+  /* Dark Mode */ --primary: 210 40% 98% --secondary: 217.2 32.6% 17.5%
+  --accent: 217.2 32.6% 17.5%;
 ```
 
 ### **Responsive Breakpoints**
@@ -703,6 +698,6 @@ Contributions make the open source community amazing! Any contributions you make
 
 <div align="center">
   
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
+Velocia - Where every journey is just a ride away.
 
 </div>
