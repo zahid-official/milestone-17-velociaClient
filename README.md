@@ -212,8 +212,8 @@ graph TB
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/zahid-official/milestone-17-client.git
-cd milestone-17-client
+git clone https://github.com/zahid-official/milestone-17-velociaClient.git
+cd milestone-17-velociaClient
 
 # 2. Install dependencies
 pnpm install
@@ -639,7 +639,7 @@ Add these in your Vercel dashboard:
 
 ## 🔄 **API Integration**
 
-The frontend integrates with the Velocia Backend API. See the [Backend Documentation](https://github.com/zahid-official/milestone-17-server) for API details.
+The frontend integrates with the Velocia Backend API. See the [Backend Documentation](https://github.com/zahid-official/milestone-17-velociaServer) for API details.
 
 ### **Base URL Configuration**
 
